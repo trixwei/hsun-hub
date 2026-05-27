@@ -1,72 +1,32 @@
 
-# Picnic Attack - AI Visual Design System
+## 核心美學總綱：靜寂座標（The Silent Coordinate）
 
-## 1. Brand DNA & Emotional Flow (品牌核心情緒流動)
+本系統的核心視覺敘事為「感官的收斂與定格」。它不服務於單一的季度故事，而是提供一個通用的視覺濾網：**用大面積的情緒環境去包裹肉體，並用全畫幅中唯一絕對清晰的金屬/寶石高光，來扮演觀者精神上的「安全錨點」。**
 
-- **Core Concept:** `Panic → Picnic` (From urban anxiety/control to deep introspection and absolute relaxation).
-    
-- **Physical Anchor (物理錨點):** Fine jewelry is the ONLY emotionally stable object in the frame. Must use shallow depth of field (e.g., `f/1.8`) and highly detailed light reflection to highlight the contrast between cold metal and warm skin.
-    
-- **Everyday Armor (日常裝甲):** Wardrobe must show spatial volume, conceptual minimalism, and physical ease. NO tight or aggressive clothing.
-    
-- **Deep Exhale (深呼吸感):** Visuals must have vast negative space, diffused ambient light, and a serene, introspective mood.
-    
+不論未來的企劃是激烈的、溫柔的、前衛的還是日常的，都必須在以下三個層次上貫徹這套座標邏輯：
 
-## 2. Photography Style Matrix (攝影機與光學權重)
+### 1. 視覺張力：環境的流動，與物件的絕對清醒
 
-Use these exact style references to define the visual baseline before detailing subjects:
+畫面永遠在處理「變動的環境」與「不變的物件」之間的張力。
 
-- **For "Panic" (Control / Sharpness / Contrast):**
+- **環境與服裝（當期企劃的載體）**：它負責表達該系列的「情緒」。它可以是正在溶解的浪漫光暈、粗糙有噪點的黑白街景、或是被風吹成大片去飽和色塊的自然。它是流動的、允許不完美的、甚至可以被大面積「虛化」的。
     
-    - `Photography by Takay, high-contrast monochrome, deep poetic shadows, crisp directional lighting, wabi-sabi aesthetic, sharp architectural control.`
-        
-- **For "Transition" (Introspection / Intimacy):**
-    
-    - `Photography by Annemarieke van Drimmelen, painterly chiaroscuro, subtle soft shadows, low-key lighting.`
-        
-    - `Macro photography by Harley Weir, extreme close-up, raw biological skin texture, visceral physical connection.`
-        
-- **For "Picnic" (Release / Airiness / Nature):**
-    
-    - `Photography by Zoe Ghertner, medium format film look, diffused outdoor sunlight filtered through large silk, warm earthy tones.`
-        
-    - `Photography by Osamu Yokonami, airy and breezy atmosphere, bright soft spring sunlight, seamless integration with nature.`
-        
-
-## 3. Biological & Styling Constraints (生物特徵與妝髮限制)
-
-_Crucial for Nano Banana Pro Thinking Mode:_
-
-- **Skin & Face:** `Ultra-realistic raw biological skin texture, highly detailed visible pores, clean bare face, subtle natural freckles, distinct natural catchlights in the eyes.` (NEVER use perfect or airbrushed AI skin).
-    
-- **Hair:** `Effortless messy low bun, fine stray hairs catching backlight, wind-blown dynamic texture.`
-    
-- **Makeup:** `Brushed up bushy wild eyebrows, chapped bare lips texture, devoid of heavy eye makeup, desaturated natural skin tones.`
+- **飾品（永恆的座標）**：不論細鏈還是大件結構，它在極淺的景深下，必須是全畫面中**唯一抗拒模糊的「硬邊實體」**。它反射著全圖最乾淨、最銳利、毫不動搖的高光。環境再喧囂或再慵懶，飾品都是那個把世界「拉回現實」的定格點。
     
 
-## 4. Wardrobe Semantic Translation (服裝幾何與材質語意)
+### 2. 空間哲學：留白作為減壓閥，服裝作為庇護所
 
-Do not use brand names directly to avoid AI bias; use these descriptive semantics:
+構圖的本質是「驅逐雜音，鎖定視覺安全感」。
 
-- **Crisp & Oversized (Studio Nicholson style):** `Relaxed generous tailoring, crisp noisy Japanese cotton nylon blend, architectural volume providing physical ease.`
+- 畫面必須大膽地驅逐所有與企劃無關的瑣碎物件，留下大面積、純粹的空曠背景（留白）。這片空白是視覺的減壓閥，讓觀者在滑過畫面的瞬間，注意力能被強制過濾。
     
-- **Deconstructed Minimalism (Maison Margiela style):** `Exposed raw basting stitches, deliberately unfinished hems, subverted traditional garment structure.`
-    
-- **Sharp & Protective (Peter Do style):** `Conceptual structural minimalism, razor-sharp clean tailoring, rigid yet transparent spacer fabric.`
+- 服裝的語意是「身體的庇護所」。不論是什麼系列的時裝，剪裁上都必須擁有空間的「容積感」與面料自身的「物理份量」。衣服不應該是緊繃、具有侵略性的，它必須優雅地接住肉體的疲憊，成為一個讓主體在裡面感到安全的、流動的構築物。
     
 
-## 5. Veo 3.1 Cinematic & Audio Rules (動態與音訊規範)
+### 3. 時序體感：時間的液態流動與感官特寫（Veo 專屬）
 
-- **Camera Movement:** Must lead the prompt. Use slow, deliberate moves (`Slow push-in`, `Smooth macro tracking shot`).
+動態影像的核心是「將日常的頻率調慢，直到聽見靈魂的聲音」。
+
+- 鏡頭放棄常規的快節奏敘事，時間在這裡變得黏稠、緩慢。運鏡以毫米為單位微幅蔓延，去放大那些平時被忽略的微小物理反饋——金屬因為體溫折射出的微亮、一縷碎髮在風中的微弱動態。
     
-- **Physics Engine:** Emphasize fabric weight and fluid motion (`Heavy cotton moving fluidly in slow motion`, `Crisp fabric reacting to a gentle breeze`).
-    
-- **Audio Soundscapes (Maximum 3-4 layers):**
-    
-    - **Metal/Skin contact:** `Subtle, sharp metallic clinking of jewelry against collarbone.`
-        
-    - **Fabric:** `Soft, continuous rustling of crisp cotton fabric.`
-        
-    - **Breath:** `A distinct, slow, deep human exhale indicating profound relief.`
-        
-- **Audio Negative Constraints:** `Absolute zero background music. (no subtitles)`.
+- **聽覺的真空隔離**：徹底剝離任何人造音樂的干擾，將環境音抽空至接近死寂。此時，感官被極致放大：唯一的聲音是金屬滑過骨骼時發出的**一聲極輕、像冰層裂開的清脆微響**，隨後是面料摩擦的沙沙聲，最終被一聲**極長、極沉、完全放鬆的人類深沉呼吸**所吞噬。這聲呼吸，是所有系列抵達終點時的集體卸甲。
