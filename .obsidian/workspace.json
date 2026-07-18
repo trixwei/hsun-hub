@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/02-visual-system.md",
+                "file": "business/11-ui-system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-visual-system"
+              "title": "11-ui-system"
             }
           }
         ]
@@ -168,10 +168,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "business/02-visual-system.md"
+                "file": "business/11-ui-system.md"
               },
               "icon": "lucide-info",
-              "title": "02-visual-system 的檔案屬性"
+              "title": "11-ui-system 的檔案屬性"
             }
           }
         ],
@@ -197,14 +197,14 @@
   },
   "active": "0a140a30080cc530",
   "lastOpenFiles": [
-    "business/00-brand-core.md",
+    "business/99-rules.md",
+    "business/11-ui-system.md",
     "business/02-visual-system.md",
     "business/01-product-lines.md",
+    "business/00-brand-core.md",
     "business/03-pricing.md",
     "business/07-customer-journey.md",
     "business/06-content-strategy.md",
-    "business/99-rules.md",
-    "business/11-ui-system.md",
     "business/10-operations.md",
     "business/09-ugc-kol.md",
     "business/08-email-flows.md",
