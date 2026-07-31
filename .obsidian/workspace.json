@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/10-operations.md",
+                "file": "business/03-pricing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-operations"
+              "title": "03-pricing"
             }
           }
         ]
@@ -168,10 +168,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "business/10-operations.md"
+                "file": "business/03-pricing.md"
               },
               "icon": "lucide-info",
-              "title": "10-operations 的檔案屬性"
+              "title": "03-pricing 的檔案屬性"
             }
           }
         ],
@@ -197,20 +197,20 @@
   },
   "active": "0a140a30080cc530",
   "lastOpenFiles": [
+    "business/04-finance.md",
+    "business/03-pricing.md",
+    "business/10-operations.md",
     "business/05-channels.md",
     "business/11-ui-system.md",
-    "business/10-operations.md",
     "business/00-brand-core.md",
     "business/01-product-lines.md",
     "business/99-rules.md",
     "business/_decisions-log.md",
     "business/02-visual-system.md",
-    "business/03-pricing.md",
     "business/07-customer-journey.md",
     "business/06-content-strategy.md",
     "business/09-ugc-kol.md",
     "business/08-email-flows.md",
-    "business/04-finance.md",
     "business/decisions-summary.md",
     "business/index.base",
     "Templates/Brand Core Template.md"
