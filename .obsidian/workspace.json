@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/01-product-lines.md",
+                "file": "business/05-channels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01-product-lines"
+              "title": "05-channels"
             }
           }
         ]
@@ -168,10 +168,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "business/01-product-lines.md"
+                "file": "business/05-channels.md"
               },
               "icon": "lucide-info",
-              "title": "01-product-lines 的檔案屬性"
+              "title": "05-channels 的檔案屬性"
             }
           }
         ],
@@ -197,9 +197,10 @@
   },
   "active": "0a140a30080cc530",
   "lastOpenFiles": [
-    "business/99-rules.md",
     "business/00-brand-core.md",
+    "business/05-channels.md",
     "business/01-product-lines.md",
+    "business/99-rules.md",
     "business/_decisions-log.md",
     "business/02-visual-system.md",
     "business/03-pricing.md",
@@ -209,7 +210,6 @@
     "business/10-operations.md",
     "business/09-ugc-kol.md",
     "business/08-email-flows.md",
-    "business/05-channels.md",
     "business/04-finance.md",
     "business/decisions-summary.md",
     "business/index.base",
