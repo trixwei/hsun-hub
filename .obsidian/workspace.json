@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e8d433ecc5121342",
+        "id": "09cd34abcbc96866",
         "type": "tabs",
         "children": [
           {
-            "id": "0a140a30080cc530",
+            "id": "014356c4d90099ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#04-finance",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,8 +76,7 @@
               "title": "書籤"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,8 +197,9 @@
       "templates:插入模板": false
     }
   },
-  "active": "cd91fc6885d8315f",
+  "active": "014356c4d90099ab",
   "lastOpenFiles": [
+    "business/04-finance.md",
     "business/01-product-lines.md",
     "business/decisions-summary.md",
     "business/02-visual-system.md",
@@ -207,7 +207,6 @@
     "business/_decisions-log.md",
     "business/06-content-strategy.md",
     "business/03-pricing.md",
-    "business/04-finance.md",
     "business/05-channels.md",
     "business/11-ui-system.md",
     "business/00-brand-core.md",
