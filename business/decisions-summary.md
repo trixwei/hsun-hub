@@ -46,18 +46,18 @@ Picnic Attack 為單一品牌，不設子品牌。營運中樞已完成「七專
 
 ## Hub 檔案同步狀態（2026-07-31）
 
-| 檔案名稱 | 狀態 | 備註說明 |
-| :--- | :--- | :--- |
-| `99-rules.md` | ✅ 已同步 | 更新至 v3.3 |
-| `00-brand-core.md` | ✅ 已同步 | 已確認無需修改 |
-| `01-product-lines.md` | ✅ 已同步 | 已重寫同步 |
-| `03-pricing.md` | ✅ 已同步 | 已更新同步 |
-| `04-finance.md` | ✅ 已同步 | 已更新同步 |
-| `05-channels.md` | ✅ 已同步 | 已重寫同步 |
-| `06-content-strategy.md`| ✅ 已同步 | 已更新同步 |
-| `10-operations.md` | ✅ 已同步 | 已更新同步 |
-| `02-visual-system.md` | ⏳ **待補** | 需加註 Grasspath 視覺系統封存說明 |
-| `07-customer-journey.md`| ➖ 維持原狀 | 未涉及今日討論 |
-| `08-email-flows.md` | ➖ 維持原狀 | 未涉及今日討論 |
-| `09-ugc-kol.md` | ➖ 維持原狀 | 未涉及今日討論 |
-| `11-ui-system.md` | ➖ 維持原狀 | 未涉及今日討論 |
+| 檔案名稱                     | 狀態       | 備註說明     |
+| :----------------------- | :------- | :------- |
+| `99-rules.md`            | ✅ 已同步    | 更新至 v3.3 |
+| `00-brand-core.md`       | ✅ 已同步    | 已確認無需修改  |
+| `01-product-lines.md`    | ✅ 已同步    | 已重寫同步    |
+| `03-pricing.md`          | ✅ 已同步    | 已更新同步    |
+| `04-finance.md`          | ✅ 已同步    | 已更新同步    |
+| `05-channels.md`         | ✅ 已同步    | 已重寫同步    |
+| `06-content-strategy.md` | ✅ 已同步    | 已更新同步    |
+| `10-operations.md`       | ✅ 已同步    | 已更新同步    |
+| `02-visual-system.md`    | ⏳ **待補** |          |
+| `07-customer-journey.md` | ➖ 維持原狀   | 未涉及今日討論  |
+| `08-email-flows.md`      | ➖ 維持原狀   | 未涉及今日討論  |
+| `09-ugc-kol.md`          | ➖ 維持原狀   | 未涉及今日討論  |
+| `11-ui-system.md`        | ➖ 維持原狀   | 未涉及今日討論  |
