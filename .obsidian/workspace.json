@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/decisions-summary.md",
+                "file": "business/10-operations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "decisions-summary"
+              "title": "10-operations"
             }
           }
         ]
@@ -168,10 +168,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "business/decisions-summary.md"
+                "file": "business/10-operations.md"
               },
               "icon": "lucide-info",
-              "title": "decisions-summary 的檔案屬性"
+              "title": "10-operations 的檔案屬性"
             }
           }
         ],
@@ -197,8 +197,8 @@
   },
   "active": "0a140a30080cc530",
   "lastOpenFiles": [
-    "business/_decisions-log.md",
     "business/decisions-summary.md",
+    "business/_decisions-log.md",
     "business/06-content-strategy.md",
     "business/03-pricing.md",
     "business/04-finance.md",
