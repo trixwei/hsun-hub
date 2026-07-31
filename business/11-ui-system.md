@@ -1,3 +1,6 @@
+---
+updated: 2026-07-31T18:07:00 （新增 Wordmark 特別條款，反映手動調整版官方標準字與系統字體規則之區隔）
+---
 # Picnic Attack Brand System
 
 ## Overview
@@ -49,6 +52,22 @@ font-weight: 400;
 /* Body / UI / Labels / Tags / 中文 */
 font-family: 'Fragment Mono', 'PingFang TC', 'Microsoft JhengHei', monospace;
 ```
+
+### Wordmark 特別條款
+
+品牌標準字（wordmark，如「Picnic Attack」全名 lockup）為**手動調整版本**，
+非直接套用 Libre Baskerville 原始字重輸出。字母連筆與收筆方式經過手動修改，
+與下方 Type Scale 中其他層級（H1/H2/H3/Display）的標準 Libre Baskerville
+渲染結果不完全一致。
+
+- **適用範圍**：僅限官方 wordmark 圖檔本身（品牌 logo、商標送件圖樣）
+- **不適用於**：網站內文標題、Section 標題、商品名稱等其他 Libre Baskerville
+  使用場景——這些仍必須是**未經修改**的標準字重，維持 `font-style: normal !important`
+- **檔案來源**：官方 wordmark 圖檔以 `picnicattack-wordmark.png` 為準
+  （或後續更新之正式版本檔名）
+- **理由**：wordmark 屬於一次性設計定案的品牌識別資產，其筆畫調整是刻意的
+  設計決策，不代表全站排版規則放寬。其餘所有 Libre Baskerville 使用情境
+  仍受本文件 Typography Rules 約束，無例外。
 
 ### Google Fonts Import
 

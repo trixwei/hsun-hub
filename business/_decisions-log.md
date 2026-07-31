@@ -1,4 +1,24 @@
-## Type: log-file Sync_status: active Priority: high Updated: 2026-07-31
+---
+updated: 2026-07-31T18:09:00
+sync_status: active
+---
+
+## 11-ui-system 補充：wordmark 自改版標準字條款
+
+- **決策：** 官方 wordmark（Picnic Attack lockup）為手動調整版本，
+  與全站標準 Libre Baskerville 渲染規則區隔對待。
+- **理由：** 實際使用中的 wordmark 圖檔筆畫經手動調整，與文件原先「全站
+  Libre Baskerville normal 無例外」的敘述不符，經確認為刻意設計決策，
+  非規則需要放寬，而是文件需要補充適用範圍的區隔說明。
+- **影響範圍：** `11-ui-system.md`（新增 Wordmark 特別條款）。
+
+
+
+
+## Type: log-file 
+Sync_status: active 
+Priority: high 
+Updated: 2026-07-31
 
 # _decisions-log.md
 
