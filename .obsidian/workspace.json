@@ -197,6 +197,9 @@
   },
   "active": "0a140a30080cc530",
   "lastOpenFiles": [
+    "business/_decisions-log.md",
+    "business/decisions-summary.md",
+    "business/06-content-strategy.md",
     "business/03-pricing.md",
     "business/04-finance.md",
     "business/10-operations.md",
@@ -205,13 +208,10 @@
     "business/00-brand-core.md",
     "business/01-product-lines.md",
     "business/99-rules.md",
-    "business/_decisions-log.md",
     "business/02-visual-system.md",
     "business/07-customer-journey.md",
-    "business/06-content-strategy.md",
     "business/09-ugc-kol.md",
     "business/08-email-flows.md",
-    "business/decisions-summary.md",
     "business/index.base",
     "Templates/Brand Core Template.md"
   ]
