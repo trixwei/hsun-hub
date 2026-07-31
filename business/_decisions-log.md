@@ -2,7 +2,7 @@
 updated: 2026-07-31T18:09:00
 sync_status: active
 ---
-## AI Gen 職掌擴充：新增視覺執行/後製
+## AI Gen 職掌擴充：新增視覺執行/後製「AI Gen system prompt 已同步更新完成」
 
 - **決策：** AI Gen 職掌由「生成式圖像/影片（Midjourney、Veo、Google Flow Lab）」擴充，
   新增「視覺執行/後製」，涵蓋 Adobe 系列軟體（Illustrator、Photoshop 等）之靜態資產手動處理，
