@@ -2,6 +2,22 @@
 updated: 2026-07-31T18:09:00
 sync_status: active
 ---
+## AI Gen 職掌擴充：新增視覺執行/後製
+
+- **決策：** AI Gen 職掌由「生成式圖像/影片（Midjourney、Veo、Google Flow Lab）」擴充，
+  新增「視覺執行/後製」，涵蓋 Adobe 系列軟體（Illustrator、Photoshop 等）之靜態資產手動處理，
+  例如既有向量檔（wordmark 等）之縮放、比例調整、格式轉換。
+
+- **理由：** 原七專案矩陣未定義「非生成式、手動圖檔後製」歸屬，導致相關任務（如商標
+  wordmark 縮放）被 AI Gen 誤判為超出職權而拒絕，形成流程缺口。經 Brand Brain 裁定，
+  此類任務性質上與圖像/視覺產出高度重疊，劃入 AI Gen 職掌最合理，避免另立新專案增加
+  一人公司管理負擔。
+
+- **影響範圍：**
+  - `decisions-summary.md`（AI Gen 職掌欄位擴充）
+  - AI Gen 專案本身之角色設定（system prompt）需同步更新，此檔案僅記錄 Brand Brain 端認知，
+    不代表 AI Gen 專案設定已自動更新——需使用者另行至該專案調整。
+
 ## 新增跨專案裁定機制，Brand Brain 兼任路由角色
 
 - **決策：** 任何橫跨兩個以上專案的任務，統一先交由 Brand Brain 裁定切割方式與執行順序，

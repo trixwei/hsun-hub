@@ -197,11 +197,11 @@
       "templates:插入模板": false
     }
   },
-  "active": "014356c4d90099ab",
+  "active": "386d1335abc698b9",
   "lastOpenFiles": [
-    "business/10-operations.md",
-    "business/_decisions-log.md",
     "business/decisions-summary.md",
+    "business/_decisions-log.md",
+    "business/10-operations.md",
     "business/11-ui-system.md",
     "business/04-finance.md",
     "business/01-product-lines.md",
