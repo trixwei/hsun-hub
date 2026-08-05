@@ -199,22 +199,24 @@
   },
   "active": "014356c4d90099ab",
   "lastOpenFiles": [
+    "business/99-rules.md",
+    "business/00-brand-core.md",
+    "2026-07-31.md",
+    "business/_decisions-log.md",
+    "README.md",
+    "Templates/Brand Core Template.md",
+    "business/decisions-summary.md",
     "business/05-channels.md",
     "business/03-pricing.md",
-    "business/_decisions-log.md",
-    "business/decisions-summary.md",
     "business/10-operations.md",
     "business/11-ui-system.md",
     "business/04-finance.md",
     "business/01-product-lines.md",
     "business/02-visual-system.md",
     "business/06-content-strategy.md",
-    "business/00-brand-core.md",
-    "business/99-rules.md",
     "business/07-customer-journey.md",
     "business/09-ugc-kol.md",
     "business/08-email-flows.md",
-    "business/index.base",
-    "Templates/Brand Core Template.md"
+    "business/index.base"
   ]
 }

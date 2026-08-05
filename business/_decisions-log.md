@@ -1,6 +1,6 @@
 ---
-updated: 2026-07-31T18:09:00
 sync_status: active
+created: 2026-07-31
 ---
 ## AI Gen 職掌擴充：新增視覺執行/後製「AI Gen system prompt 已同步更新完成」
 
