@@ -2,7 +2,8 @@
 type: spec
 created: 2026-08-05
 updated: 2026-08-06
-sync_status: active
+sync_status: draft
+confirmed_date:
 ---
 
 
