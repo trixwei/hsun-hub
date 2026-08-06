@@ -1,3 +1,9 @@
+---
+type: spec
+created: 2026-08-05
+updated: 2026-08-06
+sync_status: active
+---
 
 
 補注（2026-07-31）：本檔案為 Picnic Attack 唯一視覺系統，適用於所有通路（蝦皮商品圖、實體寄賣陳列卡、官網、社群）。原規劃中曾考慮的 Grasspath 子品牌獨立視覺系統（另有一套非 editorial、資訊式風格）已隨單一品牌決策一併廢止，不再需要維護。

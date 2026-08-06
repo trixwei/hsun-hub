@@ -4,7 +4,6 @@ created: 2026-08-05
 updated: 2026-08-05
 sync_status: active
 ---
-# 00-brand-core
 
 ## Brand Premise
 
