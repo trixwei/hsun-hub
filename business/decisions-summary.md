@@ -1,7 +1,7 @@
 ---
 type: brand-element
 created: 2026-04-22
-updated: 2026-07-31
+updated: 2026-08-06
 sync_status: active
 version: 2
 ---
@@ -60,7 +60,7 @@ Picnic Attack 為單一品牌，不設子品牌。營運中樞已完成「七專
 | `00-brand-core.md`       | ✅ 已同步      | 已確認無需修改      |
 | `01-product-lines.md`    | ✅ 已同步      | 已重寫同步        |
 | `03-pricing.md`          | ✅ 已同步      | 已更新同步        |
-| `04-finance.md`          | ✅ 已同步      | 已更新同步        |
+| `04-finance.md`          | ⏳ 待寫回      | 未確認同步        |
 | `05-channels.md`         | ✅ 已同步      | 已重寫同步        |
 | `06-content-strategy.md` | ✅ 已同步      | 已更新同步        |
 | `10-operations.md`       | ✅ 已同步      | 已更新同步        |
