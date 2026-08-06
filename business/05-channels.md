@@ -1,5 +1,8 @@
 ---
-created: 2026-07-31T10:58:00
+type: spec
+created: 2026-07-31
+updated: 2026-08-05
+sync_status: active
 ---
 
 ## 通路總覽

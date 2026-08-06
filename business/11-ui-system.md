@@ -1,5 +1,8 @@
 ---
-updated: 2026-07-31T18:07:00 （新增 Wordmark 特別條款，反映手動調整版官方標準字與系統字體規則之區隔）
+type: spec
+created: 2026-08-05
+updated: 2026-08-06
+sync_status: active
 ---
 # Picnic Attack Brand System
 

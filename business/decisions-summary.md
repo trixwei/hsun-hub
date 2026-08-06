@@ -1,14 +1,10 @@
 ---
 type: brand-element
+created: 2026-04-22
+updated: 2026-07-31
 sync_status: active
-priority: high
-updated: 2026-07-31T15:30:00
 version: 2
-created: 2026-04-22T15:29
 ---
----
-
-
 # decisions-summary
 
 ## 現況一句話

@@ -1,15 +1,9 @@
 ---
-created: 2026-04-19T19:20
-updated: 2026-04-23T17:22
+type: spec
+created: 2026-04-19
+updated: 2026-04-23
+sync_status: active
 ---
-
-### Created
-
-2026-04-19T19:20
-
-### Updated
-
-2026-07-31
 
 # 04-finance
 

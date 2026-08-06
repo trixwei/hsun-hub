@@ -1,6 +1,8 @@
 ---
-created: 2026-04-19T19:14
-updated: 2026-07-31T19:08:00
+type: spec
+created: 2026-04-19
+updated: 2026-07-31
+sync_status: active
 ---
 # 06-content-strategy
 
