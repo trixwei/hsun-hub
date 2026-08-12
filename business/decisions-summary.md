@@ -13,7 +13,7 @@ version: 2
 - **影響範圍：** `99-rules.md` 全文（frontmatter version 3.3 → 3.4）、`decisions-summary.md`（同步狀態表與重大轉向摘要文字更新）。
 
 ## 現況一句話
-Picnic Attack 為單一品牌，不設子品牌。營運中樞已完成「七專案 AI 幕僚矩陣」部署，全面啟動專業分工。
+Picnic Attack 為單一品牌，不設子品牌。營運中樞由七專案收斂為四引擎（The Engine 決策／Windshield 感官輸出／Gas Pedal 發布陳列／Rolling Stone 現實基底），否決權集中於 The Engine。
 
 ---
 
@@ -27,28 +27,21 @@ Picnic Attack 為單一品牌，不設子品牌。營運中樞已完成「七專
 
 ---
 
-## 專案架構現況 (AI 幕僚矩陣)
-原規劃的「七專案分工」已全數建置完成並上線。各專案將嚴格執行邊界，互不越權。
+## 專案架構現況（四引擎，2026-08-06 七併四生效）
+原七專案矩陣收斂為四引擎。The Engine 為唯一決策/否決節點，其餘三者只執行不裁決。
 
-| 專案模塊                   | 主要職掌                                                                     | 當前狀態                                       |
-| :--------------------- | :----------------------------------------------------------------------- | :----------------------------------------- |
-| **Brand Brain**        | 決策、策略、SKU 追蹤、財務守門、Hub 同步                                                 | ✅ **運作中** (核心大腦)                           |
-| **Creative Studio**    | 創意方向、雙語文案、品牌聲音                                                           | ✅ **已建立**                                  |
-| **AI Gen**             | Nano Banana 圖像、Veo 影片、提示詞、視覺執行/後製（Adobe Illustrator／Photoshop 等靜態資產手動處理） | ✅ **已建立**                                  |
-| **Launch Ops**         | 內容排程、發布、資產確認                                                             | ✅ **已建立**                                  |
-| **Website**            | Shopify UI/UX、CRO、頁面結構                                                   | ✅ **已建立** (Shopify UI/UX 尚無確切規劃，目前配合靜態頁策略) |
-| **Sourcing & Finance** | 採購、成本結構、定價策略                                                             | ✅ **已建立**                                  |
-| **Business Ops**       | 行政、法務、物流、客服 SOP                                                          | ✅ **已建立**                                  |
+| 引擎 | 前身 | 主要職掌 | 否決權/執行權 | 狀態 |
+| :--- | :--- | :--- | :--- | :--- |
+| **The Engine** | Brand Brain | 拆解任務、守底線、彙整回報；持有全 16 檔 hub 主本 | **唯一否決權** | ✅ 運作中 |
+| **Windshield** | Creative Studio + AI Gen | 雙語文案、圖像/影像 prompt、字體排版技術指令 | 執行（只提案不拍板） | ✅ 已建立 |
+| **Gas Pedal** | Launch Ops + Website | IG/Threads 排程、種子單錯開、官網 UI 實作、廣告後台操作、即時止血 | 執行（無裁決權） | ✅ 已建立 |
+| **Rolling Stone** | Sourcing & Finance + Business Ops | 1688 議價、品管、淨利精算、廣告週期財務分析、客訴與行政 | 執行（只算不判） | ✅ 已建立 |
 
-> **【一人公司現況判斷：邊界生效】**
-> 隨著七大專案全數建置完成，Brand Brain 指令中的「不處理範圍」（如文案交 Creative Studio、成本交 Sourcing & Finance）正式成為**強制邊界**。未來任務將精準分發至對應專案，徹底發揮 AI 幕僚陣列的分工效率。
+> **【否決權集中防呆】** The Engine 保留對 COGS 45%／淨利 30%／促銷鐵律的唯一否決權。三執行引擎只接受 The Engine 派工、不與 peer 協商邊界、回報採固定格式（Task ID／Result／Red line touched／Needs Engine decision）。
 
+> **【廣告回報分工】** Gas Pedal 握即時後台、負責即時止血；Rolling Stone 用 Gas Pedal 提供的原始數字做週期財務分析。
 
-> 【跨專案裁定機制】
-> 任何任務若橫跨兩個以上專案邊界，不由使用者自行切割分派，也不由各專案互相協商邊界。
-> 一律先交由 Brand Brain 裁定「切割方式」與「執行順序」，再逐一派工給對應專案，
-> 各專案僅執行被指派的範圍，不延伸、不互踢。
-> 各專案完成後回報 Brand Brain，由 Brand Brain 統一整合，不由使用者在專案間搬運資訊。
+> **【空白檔案歸屬】** 07-customer-journey → The Engine；08-email-flows、09-ugc-kol → Windshield。
 
 ---
 

@@ -3,6 +3,39 @@ created: 2026-07-31
 updated: 2026-08-06
 sync_status: log
 ---
+## 2026-08-06｜組織架構七併四：七專案矩陣收斂為四引擎
+
+- **決策：** 原七專案 AI 幕僚矩陣（Brand Brain / Creative Studio / AI Gen / Launch Ops / Website / Sourcing & Finance / Business Ops）收斂為四引擎架構：
+    - **The Engine**（前身 Brand Brain）：唯一決策節點，只做三件事——拆解任務、守底線、彙整回報。持有全 16 檔 hub 主本，是唯一權威來源。
+    - **Windshield**（前身 Creative Studio + AI Gen）：感官輸出，統包雙語文案、圖像/影像 prompt、字體排版技術指令。
+    - **Gas Pedal**（前身 Launch Ops + Website）：發布與陳列，IG/Threads 排程、種子單錯開、官網 UI 實作、廣告後台操作。
+    - **Rolling Stone**（前身 Sourcing & Finance + Business Ops）：現實基底，1688 議價、品管、淨利精算、客訴與行政庶務。
+
+- **理由：**
+    - 七專案邊界過細，任務落在邊界線上時各專案互判「不屬於我」，形成踢皮球（延續 `_decisions-log.md` AI Gen 職掌擴充那筆記錄所處理的同一問題）。
+    - 一人公司瓶頸是注意力，專案數量本身即成本，往減法收斂與 `05-channels.md` 排除 Pinkoi 的治理邏輯一致。
+    - 否決權集中防呆：The Engine 保留對 COGS 45%／淨利 30%／促銷鐵律的唯一否決權，三執行引擎只執行不裁決，避免「算帳的人自己說服自己貨成本可超標」（對應 `04-finance.md` 嚴禁壓縮成本掩蓋超標的防呆）。
+
+- **核心分工防呆（拍板結論）：**
+    - The Engine 保留唯一否決權，不下放給 Rolling Stone。
+    - 廣告回報拆兩層：Gas Pedal 握即時後台、負責即時止血警示；Rolling Stone 用 Gas Pedal 提供的原始數字做週期財務分析。兩者不重疊。
+    - 三執行引擎只接受 The Engine 派工，不與 peer 直接協商邊界（延續 `10-operations.md` 五、跨專案派工 SOP 禁止事項）。
+    - 三引擎回報 The Engine 採固定格式（Task ID／Result／Red line touched／Needs Engine decision），供無損彙整。
+
+- **空白檔案歸屬拍板：**
+    - `07-customer-journey.md` → The Engine（定位為跨引擎流程分工地圖，非內容產出）。
+    - `08-email-flows.md` → Windshield（內容判斷性質）。
+    - `09-ugc-kol.md` → Windshield（延伸 `06-content-strategy.md` 種子創作者段落）。
+
+- **影響範圍：**
+    - `decisions-summary.md`（專案架構表整張換四引擎版，新增否決權/執行權欄）。
+    - 四個 Project 的 custom instructions（The Engine / Windshield / Gas Pedal / Rolling Stone 全數新建或改寫）。
+    - 所有 hub 檔案中殘留的舊七專案名稱引用需替換。
+    - `10-operations.md` 五、跨專案派工 SOP：「Brand Brain」字樣後續應替換為「The Engine」（尚未執行，列待辦）。
+
+- **尚未收尾（擋部分引擎全面上線）：**
+    - `04-finance.md` 寫回 GitHub＋包材成本 $18/$75 核實（擋 Rolling Stone 採購計算）。
+    - `11-ui-system.md` 定稿（擋 Windshield↔Gas Pedal 的 UI 參數交接鏈）。
 ## AI Gen 職掌擴充：新增視覺執行/後製「AI Gen system prompt 已同步更新完成」
 
 - **決策：** AI Gen 職掌由「生成式圖像/影片（Midjourney、Veo、Google Flow Lab）」擴充，
