@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/10-operations.md",
+                "file": "business/decisions-summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10-operations"
+              "title": "decisions-summary"
             }
           }
         ]
@@ -170,7 +170,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "business/10-operations.md"
+                "file": "business/decisions-summary.md"
               },
               "icon": "lucide-info",
               "title": "檔案屬性"
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,19 +200,19 @@
   },
   "active": "014356c4d90099ab",
   "lastOpenFiles": [
-    "business/04-finance.md",
-    "business/decisions-summary.md",
-    "business/_decisions-log.md",
     "business/10-operations.md",
+    "business/07-customer-journey.md",
+    "business/decisions-summary.md",
+    "business/11-ui-system.md",
+    "business/04-finance.md",
+    "business/_decisions-log.md",
     "business/01-product-lines.md",
     "business/00-brand-core.md",
-    "business/11-ui-system.md",
     "business/99-rules.md",
     "business/02-visual-system.md",
     "business/03-pricing.md",
     "business/09-ugc-kol.md",
     "business/08-email-flows.md",
-    "business/07-customer-journey.md",
     "business/06-content-strategy.md",
     "business/05-channels.md",
     "Templates/Brand Core Template.md",

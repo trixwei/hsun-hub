@@ -58,7 +58,7 @@ Picnic Attack 為單一品牌，不設子品牌。營運中樞由七專案收斂
 | `06-content-strategy.md` | ✅ 已同步      | 已更新同步        |
 | `10-operations.md`       | ✅ 已同步      | 已更新同步        |
 | `02-visual-system.md`    | 🔍 已草擬・待核准 |              |
-| `07-customer-journey.md` | 📝 未撰寫     | 架構已規劃，內容尚未產出 |
+| `07-customer-journey.md` | ✅ 已同步      | 已更新同步        |
 | `08-email-flows.md`      | 📝 未撰寫     | 架構已規劃，內容尚未產出 |
 | `09-ugc-kol.md`          | 📝 未撰寫     | 架構已規劃，內容尚未產出 |
-| `11-ui-system.md`        | ⏳ **待補**   |              |
+| `11-ui-system.md`        | 🔍 已草擬・待核准 |              |
