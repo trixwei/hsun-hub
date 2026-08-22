@@ -1,7 +1,8 @@
 ---
+type: log
 created: 2026-07-31
 updated: 2026-08-06
-sync_status: log
+sync_status: active
 ---
 ## 2026-08-06｜組織架構七併四：七專案矩陣收斂為四引擎
 

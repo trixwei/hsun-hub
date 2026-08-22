@@ -3,7 +3,7 @@ type: spec
 version: 3
 created: 2026-08-05
 updated: 2026-08-22
-sync_status: active
+sync_status: draft
 authority: "[現貨制, 供應鏈品質驗證, 蝦皮營運參數, 客訴補償 SOP, 法遵標示]"
 depends_on: '["[[99-rules]]", "[[04-finance]]", "[[01-product-lines]]", "[[13-engine-protocol]]"]'
 ---

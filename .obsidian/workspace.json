@@ -25,13 +25,14 @@
             "id": "74896bc3e3f3539f",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "business/index.base",
-                "viewName": "表格"
+                "file": "business/05-channels.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "index"
+              "icon": "lucide-file",
+              "title": "05-channels"
             }
           }
         ],
@@ -184,7 +185,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "business/index.base"
+                "file": "business/05-channels.md"
               },
               "icon": "lucide-info",
               "title": "檔案屬性"
@@ -214,15 +215,15 @@
   },
   "active": "74896bc3e3f3539f",
   "lastOpenFiles": [
+    "business/_decisions-log.md",
+    "business/10-operations.md",
+    "business/index.base",
     "Templates/Brand Core Template.md",
     "README.md",
     "business/99-rules.md",
     "business/13-engine-protocol.md",
-    "business/10-operations.md",
     "business/04-finance.md",
     "business/03-pricing.md",
-    "business/index.base",
-    "business/_decisions-log.md",
     "business/decisions-summary.md",
     "business/07-customer-journey.md",
     "business/11-ui-system.md",
