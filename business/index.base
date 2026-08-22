@@ -1,3 +1,19 @@
 views:
   - type: table
     name: 表格
+    filters:
+      and:
+        - file.folder == "business"
+        - file.ext == "md"
+    groupBy:
+      property: sync_status
+      direction: DESC
+    order:
+      - file.name
+      - authority
+      - sync_status
+      - updated
+      - version
+    sort:
+      - property: updated
+        direction: ASC
