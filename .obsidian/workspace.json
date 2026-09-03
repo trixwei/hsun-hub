@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/99-rules.md",
+                "file": "business/decisions-summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "99-rules"
+              "title": "decisions-summary"
             }
           }
         ],
@@ -215,13 +215,13 @@
   },
   "active": "74896bc3e3f3539f",
   "lastOpenFiles": [
-    "business/04-finance.md",
+    "business/_decisions-log.md",
     "business/99-rules.md",
+    "business/04-finance.md",
     "business/00-brand-core.md",
     "business/13-engine-protocol.md",
     "business/10-operations.md",
     "business/05-channels.md",
-    "business/_decisions-log.md",
     "business/index.base",
     "Templates/Brand Core Template.md",
     "README.md",
