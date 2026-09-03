@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/05-channels.md",
+                "file": "business/99-rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05-channels"
+              "title": "99-rules"
             }
           }
         ],
@@ -215,25 +215,25 @@
   },
   "active": "74896bc3e3f3539f",
   "lastOpenFiles": [
-    "business/_decisions-log.md",
+    "business/04-finance.md",
+    "business/99-rules.md",
+    "business/00-brand-core.md",
+    "business/13-engine-protocol.md",
     "business/10-operations.md",
+    "business/05-channels.md",
+    "business/_decisions-log.md",
     "business/index.base",
     "Templates/Brand Core Template.md",
     "README.md",
-    "business/99-rules.md",
-    "business/13-engine-protocol.md",
-    "business/04-finance.md",
     "business/03-pricing.md",
     "business/decisions-summary.md",
     "business/07-customer-journey.md",
     "business/11-ui-system.md",
     "business/01-product-lines.md",
-    "business/00-brand-core.md",
     "business/02-visual-system.md",
     "business/09-ugc-kol.md",
     "business/08-email-flows.md",
     "business/06-content-strategy.md",
-    "business/05-channels.md",
     "2026-07-31.md"
   ]
 }
