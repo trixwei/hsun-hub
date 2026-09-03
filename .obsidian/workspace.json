@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/decisions-summary.md",
+                "file": "business/_decisions-log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "decisions-summary"
+              "title": "_decisions-log"
             }
           }
         ],
@@ -215,8 +215,9 @@
   },
   "active": "74896bc3e3f3539f",
   "lastOpenFiles": [
-    "business/_decisions-log.md",
+    "business/decisions-summary.md",
     "business/99-rules.md",
+    "business/_decisions-log.md",
     "business/04-finance.md",
     "business/00-brand-core.md",
     "business/13-engine-protocol.md",
@@ -226,7 +227,6 @@
     "Templates/Brand Core Template.md",
     "README.md",
     "business/03-pricing.md",
-    "business/decisions-summary.md",
     "business/07-customer-journey.md",
     "business/11-ui-system.md",
     "business/01-product-lines.md",
