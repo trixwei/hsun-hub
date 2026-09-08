@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/_decisions-log.md",
+                "file": "business/00-brand-core.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_decisions-log"
+              "title": "00-brand-core"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,20 +212,20 @@
       "templates:插入模板": false
     }
   },
-  "active": "74896bc3e3f3539f",
+  "active": "014356c4d90099ab",
   "lastOpenFiles": [
+    "business/04-finance.md",
+    "business/10-operations.md",
+    "business/00-brand-core.md",
+    "business/03-pricing.md",
+    "business/_decisions-log.md",
     "business/decisions-summary.md",
     "business/99-rules.md",
-    "business/_decisions-log.md",
-    "business/04-finance.md",
-    "business/00-brand-core.md",
     "business/13-engine-protocol.md",
-    "business/10-operations.md",
     "business/05-channels.md",
     "business/index.base",
     "Templates/Brand Core Template.md",
     "README.md",
-    "business/03-pricing.md",
     "business/07-customer-journey.md",
     "business/11-ui-system.md",
     "business/01-product-lines.md",
