@@ -1,10 +1,15 @@
 ---
 type: brand-element
 created: 2026-04-22
-updated: 2026-09-03
+updated: 2026-09-09
 sync_status: active
 version: 2
 ---
+### 2026-09-09｜99-rules 修法：v3.6 → v3.7（新增治理權力歸屬條款）
+
+- **決策：** 99-rules.md 新增 F4，明確主理人保留修改本檔案與各項策略規範之最終權力，不受引擎否決權限制；引擎於執行異動前須提出修改前後優劣分析供裁決參考。
+- **理由：** 原治理設計僅定義引擎彼此之間的否決權分配，未明確主理人與引擎體系之權力關係，此條補上這個空白。
+- **影響範圍：** `99-rules.md`（新增 F4，version 3.6 → 3.7）、`decisions-summary.md`（本筆記錄）。
 ### 2026-09-09｜06-content-strategy 新增：Threads/IG 內容分工架構（Panic/Picnic）
 
 - **決策：** `06-content-strategy.md` 新增第七節，訂立 Threads 與 IG 的內容分工判準——Threads 接住 Panic（過程），IG 展示 Picnic（結果）。同時修正原「材質判斷」內容方向：由規格科普改為以立場、賭注、踩過的坑為骨幹的敘事，並解決 Threads「留白式互動」與品牌「不用問句」語氣規則之間的潛在衝突（改用未完成陳述句留缺口，不用疑問句）。
