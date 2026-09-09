@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/14-campaign-calendar.md",
+                "file": "business/02-visual-system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14-campaign-calendar"
+              "title": "02-visual-system"
             }
           },
           {
@@ -199,7 +199,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "business/14-campaign-calendar.md"
+                "file": "business/02-visual-system.md"
               },
               "icon": "lucide-info",
               "title": "檔案屬性"
@@ -228,24 +228,24 @@
   },
   "active": "6df72792d0bdc4ac",
   "lastOpenFiles": [
-    "business/13-engine-protocol.md",
+    "business/01-product-lines.md",
+    "business/00-brand-core.md",
+    "business/11-ui-system.md",
+    "business/README.md",
     "business/14-campaign-calendar.md",
-    "business/10-operations.md",
+    "business/13-engine-protocol.md",
     "business/99-rules.md",
     "business/decisions-summary.md",
+    "business/10-operations.md",
     "business/03-pricing.md",
     "business/09-ugc-kol.md",
     "business/_decisions-log.md",
     "business/06-content-strategy.md",
-    "business/00-brand-core.md",
     "business/04-finance.md",
     "business/05-channels.md",
     "business/index.base",
     "Templates/Brand Core Template.md",
-    "README.md",
     "business/07-customer-journey.md",
-    "business/11-ui-system.md",
-    "business/01-product-lines.md",
     "business/02-visual-system.md",
     "business/08-email-flows.md",
     "2026-07-31.md"
