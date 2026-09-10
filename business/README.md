@@ -1,7 +1,5 @@
 # Picnic Attack — business hub
 
-# Picnic Attack — business hub
-
 單一品牌線的營運知識庫。衝突時的判定依據在下方「管轄權」表，不看各檔文末的自我聲明。
 
 ## 一、檔案編號體系
