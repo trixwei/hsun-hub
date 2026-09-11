@@ -1,8 +1,11 @@
 ---
 type: spec
+version: 1
 created: 2026-08-13
 updated: 2026-08-13
 sync_status: active
+authority: "[顧客旅程, 跨引擎交接地圖]"
+depends_on: '["[[13-engine-protocol]]", "[[06-content-strategy]]"]'
 ---
 
 **版本 2026-08-13**｜首版。定位依 08-06「七併四」決議：本檔案為跨引擎流程分工地圖，記錄客戶在各接觸點時，哪個引擎負責什麼、由誰交棒給誰，不是行銷內容或文案產出（內容產出屬 Windshield 職掌，見 06-content-strategy.md）。

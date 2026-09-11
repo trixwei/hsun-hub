@@ -7,7 +7,7 @@ sync_status: active
 authority: "[引擎協作協定, 跨界派工規範, 回報格式, 例外退件機制]"
 depends_on: '["[[99-rules]]", "[[12-engine-log]]", "[[14-campaign-calendar]]"]'
 ---
-
+---
 本版變動
 自 v1.0 升級至 v2.0。因應五引擎架構（新增 GPS 行銷引擎）正式上線，擴充引擎職掌邊界與派工流程；全面導入 Obsidian Properties 屬性區塊規範；納入下游引擎遇到阻礙時的「例外與退件機制 (Reject & Revise Loop)」；修訂回報格式以支援 YAML 標籤。
 

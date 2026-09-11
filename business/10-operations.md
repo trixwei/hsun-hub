@@ -1,6 +1,6 @@
 ---
 type: spec
-version: 4
+version: 5
 created: 2026-08-05
 updated: 2026-08-22
 sync_status: draft

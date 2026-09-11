@@ -1,20 +1,29 @@
 ---
 type: brand-element
 created: 2026-04-22
-updated: 2026-09-09
+updated: 2026-09-11
+version: 3
 sync_status: active
-version: 2
 ---
+---
+### 2026-09-11｜跨檔案一致性修正（定價越權數字、語彙禁區重複、UI過時內容）
+
+- **決策：** 修正 00-brand-core（刪除過時越權的880天花板數字）、03-pricing（標註draft狀態與被引用的矛盾）、99-rules（A4併入語彙禁區，3.8→3.9）、06-content-strategy（移除重複清單改連結）、11-ui-system（定位用詞、Collections表格、雙語文案缺口）共五份檔案。完整脈絡見 `_decisions-log.md` 2026-09-11 條目。
+- **理由：** 均為對照 hub 自身治理規則（README管轄權表、sync_status定義）後發現的具體違規，非新增規則。
+- **限制：** 未變更任何實際定價數字；11-ui-system 中文文案為草稿，待 Windshield 定稿；03-pricing 的 draft 狀態問題待 The Engine 正式裁決。
+
 ### 2026-09-09｜99-rules 修法：v3.6 → v3.7（新增治理權力歸屬條款）
 
 - **決策：** 99-rules.md 新增 F4，明確主理人保留修改本檔案與各項策略規範之最終權力，不受引擎否決權限制；引擎於執行異動前須提出修改前後優劣分析供裁決參考。
 - **理由：** 原治理設計僅定義引擎彼此之間的否決權分配，未明確主理人與引擎體系之權力關係，此條補上這個空白。
 - **影響範圍：** `99-rules.md`（新增 F4，version 3.6 → 3.7）、`decisions-summary.md`（本筆記錄）。
+
 ### 2026-09-09｜06-content-strategy 新增：Threads/IG 內容分工架構（Panic/Picnic）
 
 - **決策：** `06-content-strategy.md` 新增第七節，訂立 Threads 與 IG 的內容分工判準——Threads 接住 Panic（過程），IG 展示 Picnic（結果）。同時修正原「材質判斷」內容方向：由規格科普改為以立場、賭注、踩過的坑為骨幹的敘事，並解決 Threads「留白式互動」與品牌「不用問句」語氣規則之間的潛在衝突（改用未完成陳述句留缺口，不用疑問句）。
 - **理由：** 原內容方向偏向資訊科普，對零聲量陌生流量缺乏互動鉤子，且與品牌「有態度、不情緒乞求」的人格設定貼合度不足。新架構讓 Threads／IG 的視角、句式、視覺比重各自對應「過程」與「結果」的本質差異，判準比單純的美學調性更根本、更可執行。
 - **影響範圍：** `06-content-strategy.md`（新增第七節）。實際文案與影像 prompt 產出屬 Windshield 職掌，本次僅記錄方向邏輯。
+
 ### 2026-09-03｜99-rules 修法：v3.5 → v3.6（C1 明確化、C2 拆軌、新增 D3）
 
 - **決策：** 99-rules.md 由 v3.5 修訂至 v3.6，取代所有先前版本。
@@ -47,39 +56,32 @@ Picnic Attack 為單一品牌，不設子品牌。營運中樞由七專案收斂
 
 ---
 
-## 專案架構現況（四引擎，2026-08-06 七併四生效）
+## 專案架構現況
 
-原七專案矩陣收斂為四引擎。The Engine 為唯一決策/否決節點，其餘三者只執行不裁決。
+引擎角色、職掌範圍與邊界，唯一權威見 `[[13-engine-protocol]]`（現行五引擎架構：The Engine／GPS／Windshield／Gas Pedal／Rolling Stone），本檔不再重複列出職掌表，避免與 13-engine-protocol 更新時失去同步。
 
-|引擎|前身|主要職掌|否決權/執行權|狀態|
-|---|---|---|---|---|
-|**The Engine**|Brand Brain|拆解任務、守底線、彙整回報；持有全 16 檔 hub 主本|**唯一否決權**|✅ 運作中|
-|**Windshield**|Creative Studio + AI Gen|雙語文案、圖像/影像 prompt、字體排版技術指令|執行（只提案不拍板）|✅ 已建立|
-|**Gas Pedal**|Launch Ops + Website|IG/Threads 排程、種子單錯開、官網 UI 實作、廣告後台操作、即時止血|執行（無裁決權）|✅ 已建立|
-|**Rolling Stone**|Sourcing & Finance + Business Ops|1688 議價、品管、淨利精算、廣告週期財務分析、客訴與行政|執行（只算不判）|✅ 已建立|
+> [已修正 2026-09-11] 原表格為 2026-08-06 七併四時期的四引擎版本，未反映 2026-09-09 升級的五引擎架構（新增 GPS），與現行 `13-engine-protocol.md` v2 不一致。已刪除舊表格，改為連結單一權威檔案。
 
-> **【否決權集中防呆】** The Engine 保留對 COGS 45%／淨利 30%／促銷Brand Standards的唯一否決權。三執行引擎只接受 The Engine 派工、不與 peer 協商邊界，回報採固定格式（Task ID／Result／Red line touched／Needs Engine decision）。
-
-> **【廣告回報分工】** Gas Pedal 握即時後台、負責即時止血；Rolling Stone 用 Gas Pedal 提供的原始數字做週期財務分析。
-
-> **【空白檔案歸屬】** 07-customer-journey → The Engine；08-email-flows、09-ugc-kol → Windshield。
+> **【空白檔案歸屬】** 07-customer-journey → The Engine（此筆未見於 13-engine-protocol 或 README，暫留此處記錄）。
+> 
+> [已修正 2026-09-11] 原本條同時寫「08-email-flows、09-ugc-kol → Windshield」，但 README 檔案索引已更新為「由 GPS 主筆」——兩處對不上。GPS 是後升級的五引擎才有的角色，判斷 README 版本較新，刪除過時的 Windshield 歸屬，08/09 歸屬以 README 為準。
 
 ---
 
 ## Hub 檔案同步狀態（2026-09-03）
 
-| 檔案名稱                     | 狀態         | 備註說明                                 |
-| ------------------------ | ---------- | ------------------------------------ |
-| `99-rules.md`            | ✅ 已同步      | 更新至 v3.6（C1 含本數結案、C2 拆數位/實體雙軌、新增 D3） |
-| `00-brand-core.md`       | ✅ 已同步      | 已確認無需修改                              |
-| `01-product-lines.md`    | ✅ 已同步      | 已重寫同步                                |
-| `03-pricing.md`          | ✅ 已同步      | 已更新同步                                |
-| `04-finance.md`          | ⏳ 待寫回      | 未確認同步                                |
-| `05-channels.md`         | ⏳ 待寫回      | 包裹小卡段落須反映 C2 雙軌，派工 Gas Pedal 執行中     |
-| `06-content-strategy.md` | ✅ 已同步      | 已更新同步（含第七節 Threads/IG 分工架構）          |
-| `10-operations.md`       | ⏳ 待寫回      | 第十一節導外規範須反映 C2 雙軌，派工 Gas Pedal 執行中   |
-| `02-visual-system.md`    | 🔍 已草擬・待核准 |                                      |
-| `07-customer-journey.md` | ⏳ 待寫回      | 階段五至七敘述與 D3 公關贈禮流程須更新                |
-| `08-email-flows.md`      | 📝 未撰寫     | 架構已規劃，內容尚未產出                         |
-| `09-ugc-kol.md`          | 📝 未撰寫     | 架構已規劃，內容尚未產出                         |
-| `11-ui-system.md`        | 🔍 已草擬・待核准 |                                      |
+|檔案名稱|狀態|備註說明|
+|---|---|---|
+|`99-rules.md`|✅ 已同步|更新至 v3.9（A4 併入語彙禁區清單）|
+|`00-brand-core.md`|🔍 已修訂・待核准|刪除過時越權天花板數字，改連結 03-pricing|
+|`01-product-lines.md`|✅ 已同步|已重寫同步|
+|`03-pricing.md`|🔍 已草擬・待核准|已標註 draft 狀態與被 99-rules 引用的矛盾，待 The Engine 裁決|
+|`04-finance.md`|⏳ 待寫回|未確認同步；毛利45%數字與03-pricing三級防線（40/50%）待核對是否又一處重複定義|
+|`05-channels.md`|⏳ 待寫回|包裹小卡段落須反映 C2 雙軌，派工 Gas Pedal 執行中|
+|`06-content-strategy.md`|✅ 已同步|已更新同步；語彙禁區改連結 99-rules#A4|
+|`10-operations.md`|⏳ 待寫回|第十一節導外規範須反映 C2 雙軌，派工 Gas Pedal 執行中|
+|`02-visual-system.md`|🔍 已草擬・待核准||
+|`07-customer-journey.md`|⏳ 待寫回|階段五至七敘述與 D3 公關贈禮流程須更新|
+|`08-email-flows.md`|📝 未撰寫|架構已規劃，內容尚未產出|
+|`09-ugc-kol.md`|📝 未撰寫|架構已規劃，內容尚未產出|
+|`11-ui-system.md`|🔍 已草擬・待核准|定位用詞、Collections表格、雙語文案缺口已修正草稿，待 Windshield/The Engine 核准|

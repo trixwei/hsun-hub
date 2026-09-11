@@ -1,20 +1,26 @@
 ---
 type: spec
+version: 1.2
 created: 2026-08-05
-updated: 2026-08-06
+updated: 2026-09-11
 sync_status: draft
+authority: "[UI系統, 視覺規格, 字體/色彩/間距技術參數]"
+depends_on: '["[[00-brand-core]]", "[[02-visual-system]]"]'
+---
 ---
 # Picnic Attack Brand System
 
 ## Overview
 
-Picnic Attack 是一個台灣獨立配件品牌，定位為 Editorial Minimalism。設計語言以克制、靜謐、精準為核心，拒絕促銷色彩與過度動態。
+Picnic Attack 是一個台灣獨立品牌，定位為「態度型輕珠寶」（見 `[[00-brand-core]]`），視覺語言為 Editorial Minimalism。設計語言以克制、靜謐、精準為核心，拒絕促銷色彩與過度動態。
+
+> [已修正] 舊版寫「配件品牌」（accessories），與 00-brand-core 的「珠寶」定位用詞不一致，稀釋跟平價配件的區隔訴求，已統一為珠寶語彙。Meta title/description 若仍使用 accessories 字眼，需一併排查修正。
 
 **Keywords**: picnic attack, PA, jewelry, accessories, editorial, minimal, taiwan, fragment mono, libre baskerville, stillness, moment
 
 ---
 
-## Brand Colors
+## Brand Colors(待討論)
 
 ### Core Palette（僅此兩色）
 
@@ -58,19 +64,12 @@ font-family: 'Fragment Mono', 'PingFang TC', 'Microsoft JhengHei', monospace;
 
 ### Wordmark 特別條款
 
-品牌標準字（wordmark，如「Picnic Attack」全名 lockup）為**手動調整版本**，
-非直接套用 Libre Baskerville 原始字重輸出。字母連筆與收筆方式經過手動修改，
-與下方 Type Scale 中其他層級（H1/H2/H3/Display）的標準 Libre Baskerville
-渲染結果不完全一致。
+品牌標準字（wordmark，如「Picnic Attack」全名 lockup）為**手動調整版本**， 非直接套用 Libre Baskerville 原始字重輸出。字母連筆與收筆方式經過手動修改， 與下方 Type Scale 中其他層級（H1/H2/H3/Display）的標準 Libre Baskerville 渲染結果不完全一致。
 
 - **適用範圍**：僅限官方 wordmark 圖檔本身（品牌 logo、商標送件圖樣）
-- **不適用於**：網站內文標題、Section 標題、商品名稱等其他 Libre Baskerville
-  使用場景——這些仍必須是**未經修改**的標準字重，維持 `font-style: normal !important`
-- **檔案來源**：官方 wordmark 圖檔以 `picnicattack-wordmark.png` 為準
-  （或後續更新之正式版本檔名）
-- **理由**：wordmark 屬於一次性設計定案的品牌識別資產，其筆畫調整是刻意的
-  設計決策，不代表全站排版規則放寬。其餘所有 Libre Baskerville 使用情境
-  仍受本文件 Typography Rules 約束，無例外。
+- **不適用於**：網站內文標題、Section 標題、商品名稱等其他 Libre Baskerville 使用場景——這些仍必須是**未經修改**的標準字重，維持 `font-style: normal !important`
+- **檔案來源**：官方 wordmark 圖檔以 `picnicattack-wordmark.png` 為準 （或後續更新之正式版本檔名）
+- **理由**：wordmark 屬於一次性設計定案的品牌識別資產，其筆畫調整是刻意的 設計決策，不代表全站排版規則放寬。其餘所有 Libre Baskerville 使用情境 仍受本文件 Typography Rules 約束，無例外。
 
 ### Google Fonts Import
 
@@ -210,14 +209,15 @@ css
 
 ## Collections
 
-|系列|特色|
-|---|---|
-|Ground|靜謐、極簡|
-|Picnic|日常、輕盈|
-|Attack|態度、俐落|
-|Moment|當下、內斂|
-|Allover|日常款|
+|系列|特色|狀態|
+|---|---|---|
+|Picnic|日常、輕盈|✅ 主力|
+|Allover|日常款|✅ 入口款|
+|Ground|靜謐、極簡|❄️ 凍結（見 decisions-summary 2026-07-31）|
+|Moment|當下、內斂|❄️ 凍結（見 decisions-summary 2026-07-31）|
 
+> [已修正] 舊表格列出「Attack」為第五系列，但該名稱未出現在 00/01/03 任一檔案中，判定為舊版殘留的幽靈項目，已移除。Ground、Moment 已於 2026-07-31 決策中凍結，舊表格未反映此狀態，UI 若仍展示這兩系列入口需一併排查。
+> 
 > ⚠️ 舊版 pa-brand.md 的 Moment Accent `#5C6B6B` 已廢棄，全系列統一使用 `#1E1C1A`。
 
 ---
@@ -236,16 +236,13 @@ css
 
 ||English|中文|
 |---|---|---|
-|Hero Tagline|World comes undone. You don't.|—|
-|About H1|Panic lingers. You remain.|—|
-|About sub-tagline|loud world. quiet you.|—|
-|密碼頁標題|Picnic preparing.|—|
-|密碼頁副標|Leave your email. You'll know when it's ready.|—|
-|密碼頁折扣文字|EARLY ACCESS · NT$100 · BY INVITATION|—|
-|Brand description|Refined accessories shaped by restraint and detail|以克制與細節構築的配件語言|
-|Email|[pa@picnicattack.com](mailto:pa@picnicattack.com)|—|
-|Meta title|Picnic Attack — Accessories for the moment you choose to stay|—|
-|Meta description|Refined accessories shaped by restraint and detail. 以克制與細節構築的配件語言，呈現內斂而精準的風格。|—|
+|Hero Tagline|World comes undone. You don't.|落地，收好，繼續。 [待Windshield定稿]|
+|About H1|Panic lingers. You remain.|浮躁退散，你留下座標。 [待Windshield定稿]|
+|About sub-tagline|loud world. quiet you.|喧鬧之中，你是靜音。 [待Windshield定稿]|
+|密碼頁標題|Picnic preparing.|野餐正在準備。 [待Windshield定稿]|
+|密碼頁副標|Leave your email. You'll know when it's ready.|留下信箱，準備好了自然知道。 [待Windshield定稿]|
+
+> [已修正] 原表格中文欄全數空白，違反 00-brand-core「主要視覺文案需中英並列」規則。以上為依 PA 雙語公式（中文收斂情緒與狀態、英文負責動作指令，兩者不互譯）草擬的草稿，**尚未經 Windshield 定稿與 The Engine 核准，不可直接上線**，僅作為補齊缺口的起點。 |密碼頁折扣文字|EARLY ACCESS · NT$100 · BY INVITATION|—| |Brand description|Refined accessories shaped by restraint and detail|以克制與細節構築的配件語言| |Email|[pa@picnicattack.com](mailto:pa@picnicattack.com)|—| |Meta title|Picnic Attack — Accessories for the moment you choose to stay|—| |Meta description|Refined accessories shaped by restraint and detail. 以克制與細節構築的配件語言，呈現內斂而精準的風格。|—|
 
 ---
 
