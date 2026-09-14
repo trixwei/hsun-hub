@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/03-pricing.md",
+                "file": "business/04-finance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-pricing"
+              "title": "04-finance"
             }
           }
         ]
@@ -200,27 +200,34 @@
   },
   "active": "5cdc578f5eb1e64b",
   "lastOpenFiles": [
+    "business/_decisions-log.md",
+    "business/10-operations.md",
+    "business/99-rules.md",
+    "business/01-product-lines.md",
+    "business/03-pricing.md",
+    "business拷貝/08-email-flows.md",
+    "business拷貝/01-product-lines.md",
+    "business拷貝/13-engine-protocol.md",
+    "business拷貝/_decisions-log.md",
+    "business拷貝/index.base",
+    "business拷貝/02-visual-system.md",
+    "business拷貝/11-ui-system.md",
+    "business拷貝/99-rules.md",
+    "business拷貝/03-pricing.md",
+    "business拷貝/10-operations.md",
+    "business拷貝/README.md",
+    "business拷貝/05-channels.md",
+    "business拷貝/04-finance.md",
+    "business拷貝/07-customer-journey.md",
+    "business拷貝/14-campaign-calendar.md",
+    "business拷貝/decisions-summary.md",
+    "business拷貝/00-brand-core.md",
+    "business拷貝/09-ugc-kol.md",
+    "business拷貝/06-content-strategy.md",
+    "business拷貝/15-physical-system.md",
+    "business拷貝",
     "business/13-engine-protocol.md",
     "business/15-physical-system.md",
-    "business/02-visual-system.md",
-    "business/01-product-lines.md",
-    "business/_decisions-log.md",
-    "business/03-pricing.md",
-    "Templates/Brand Core Template.md",
-    "business/99-rules.md",
-    "business/00-brand-core.md",
-    "business/05-channels.md",
-    "business/06-content-strategy.md",
-    "business/10-operations.md",
-    "business/README.md",
-    "business/09-ugc-kol.md",
-    "business/08-email-flows.md",
-    "business/11-ui-system.md",
-    "business/07-customer-journey.md",
-    "business/index.base",
-    "business/decisions-summary.md",
-    "business/14-campaign-calendar.md",
-    "business/04-finance.md",
-    "2026-07-31.md"
+    "business/index.base"
   ]
 }
