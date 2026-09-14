@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "business/04-finance.md",
+                "file": "business/13-engine-protocol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04-finance"
+              "title": "13-engine-protocol"
             }
           }
         ]
@@ -200,11 +200,14 @@
   },
   "active": "5cdc578f5eb1e64b",
   "lastOpenFiles": [
+    "business/04-finance.md",
     "business/_decisions-log.md",
-    "business/10-operations.md",
+    "business/13-engine-protocol.md",
     "business/99-rules.md",
-    "business/01-product-lines.md",
     "business/03-pricing.md",
+    "business/01-product-lines.md",
+    "business/README.md",
+    "business/10-operations.md",
     "business拷貝/08-email-flows.md",
     "business拷貝/01-product-lines.md",
     "business拷貝/13-engine-protocol.md",
@@ -224,10 +227,7 @@
     "business拷貝/00-brand-core.md",
     "business拷貝/09-ugc-kol.md",
     "business拷貝/06-content-strategy.md",
-    "business拷貝/15-physical-system.md",
     "business拷貝",
-    "business/13-engine-protocol.md",
-    "business/15-physical-system.md",
     "business/index.base"
   ]
 }
